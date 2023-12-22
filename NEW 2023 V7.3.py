@@ -36,8 +36,8 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.youtube.com/@kgaming6607')
-os.system(f'xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+os.system(f'xdg-open https://www.youtube.com/@tigermate_hacker123')
+os.system(f'xdg-open https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-ALIF ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MR-ALONE786/File-Cloning/blob/main/Approved.txt').text
+    prox= requests.get('https://github.com/Alifhosson/NEW-2023.py').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -1651,12 +1651,11 @@ logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-        \33[0;91m █████╗ ██╗      ██████╗ ███╗   ██╗███████╗    
-        \33[0;91m██╔══██╗██║     ██╔═══██╗████╗  ██║██╔════╝
-        \33[0;91m███████║██║     ██║   ██║██╔██╗ ██║█████╗      
-        \33[0;91m██╔══██║██║     ██║   ██║██║╚██╗██║██╔══╝      
-        \33[0;91m██║  ██║███████╗╚██████╔╝██║ ╚████║███████╗    
-        \33[0;91m╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝      
+   _      __   _____  ___  
+  /_\    / /   \_   \/ __\ 
+ //_\\  / /     / /\/ _\   
+/  _  \/ /___/\/ /_/ /     
+\_/ \_/\____/\____/\/ 
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Alone🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
@@ -1683,7 +1682,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/Mr-Alon/File-Cloning-Paid/blob/main/Paid.txt').text
+    httpCaht = requests.get('https://github.com/Alifhosson/NEW-2023.py.git').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -1700,16 +1699,16 @@ def meyexudi():
       print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
       print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 TAKA ')
       print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 TAKA ')
-      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   ALONE,    Please,   Send,   Your,   Key,"')
+      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   ALIF,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801309177411?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801615623399https://wa.me/+8801309177411?text?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
     sys.exit()
 meyexudi()
-#os.system("python ALONE.py")
+#os.system("python NEW-2023 V7.3.py")
 def naima():
 	print('-------------------')
 print(logo)
@@ -1727,7 +1726,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'V' and password == '7':
+    if username == 'A' and password == '1':
         print(' \033[0;95mYou Have Successfully Logged in.')
         os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
         break
